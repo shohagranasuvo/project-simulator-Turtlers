@@ -1,0 +1,1 @@
+As an Admin, Create a new pharmacist profile so thatI can enroll a pharmacists in the system
